@@ -11,7 +11,7 @@ No API keys, no credentials, no proprietary data. Clone it and run it.
 ## Quick start
 
 ```bash
-git clone https://github.com/fgraysmith-16/attribution-bible-code.git
+git clone https://github.com/fgraysmith/attribution-bible-code.git
 cd attribution-bible-code
 pip install -r requirements.txt
 
