@@ -1,0 +1,13 @@
+# Core — needed by every script
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+
+# Chapter 12 — regression DiD with cluster-robust standard errors
+statsmodels>=0.14
+
+# Chapters 13-15 — uncomment as those chapters publish
+# pymc-marketing>=0.7     # ch14: Bayesian MMM
+# jellyfish>=1.0          # ch15: phonetic and edit-distance matching
+# rapidfuzz>=3.0          # ch15: fast fuzzy string matching
+# scikit-learn>=1.3       # ch13, ch15: classifiers and utilities
